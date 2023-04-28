@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Testovoe6</string>
+    <string name="have_a_nice_day">HAVE A NICE DAY!</string>
+    <string name="be_the_strongest">BE THE STRONGEST!</string>
+    <string name="begin">BEGIN</string>
+    <string name="weight">WEIGHT</string>
+    <string name="height">HEIGHT</string>
+    <string name="age">AGE</string>
+    <string name="name">NAME</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="training">TRAINING</string>
+    <string name="my_plan">MY PLAN</string>
+    <string name="settings">SETTINGS</string>
+    <string name="weight_loss">WEIGHT LOSS</string>
+    <string name="relief">RELIEF</string>
+    <string name="power">POWER</string>
+    <string name="universal">UNIVERSAL</string>
+    <string name="choose">CHOOSE</string>
+    <string name="your_train">YOUR TRAIN</string>
+    <string name="your_records">YOUR RECORDS</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="clear_progress">CLEAR PROGRESS</string>
+</resources>
